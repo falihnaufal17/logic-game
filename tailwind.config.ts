@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'game-theme': '#750E21',
+        'empty-map': '#FFFFFF'
       },
     },
   },
